@@ -2419,3 +2419,7 @@ textarea {
 .contact-info .social-networks ul li a:hover {
     color: #FE980F;
 }
+
+.p{
+    font-family: font-italic;
+}
